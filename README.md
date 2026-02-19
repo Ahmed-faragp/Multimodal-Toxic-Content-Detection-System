@@ -67,7 +67,6 @@ toxic_app/
 │
 ├── data.csv              # Auto-generated prediction database
 ├── requirements.txt      # Dependencies
-└── README.md             # Documentation
 ```
 
 
