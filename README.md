@@ -54,18 +54,20 @@ Uploaded images are first converted into captions, then classified using the tox
 
 ---
 ## Project Structure
+
+```text
 toxic_app/
 │
-├── app.py # Main Streamlit application
-├── classifier.py # Loads LoRA adapter and performs inference
-├── imagecaption.py # BLIP caption generator
-├── database.py # CSV logging and database viewer
+├── app.py                # Main Streamlit application
+├── classifier.py         # Loads LoRA adapter and performs inference
+├── imagecaption.py       # BLIP caption generator
+├── database.py           # CSV logging and database viewer
 │
-├── toxic_lora_model/ # Saved LoRA adapter + tokenizer files
+├── toxic_lora_model/     # Saved LoRA adapter + tokenizer files
 │
-├── data.csv # Auto-generated prediction database
-├── requirements.txt # Dependencies
-└── README.md # Documentation
----
+├── data.csv              # Auto-generated prediction database
+├── requirements.txt      # Dependencies
+└── README.md             # Documentation
+```
 
 
