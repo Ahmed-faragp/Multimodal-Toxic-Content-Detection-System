@@ -1,0 +1,21 @@
+query,      Input type,      Classification
+I want to kill you ,text,Toxic
+I like eating banana , text,Safe
+I will kill you,text,Toxic
+I will kill you,text,Toxic
+You are a disgusting idiot,text,Toxic
+You are annoying,text,Toxic
+Shut up,text,Toxic
+You're so stupid sometimes,text,Toxic
+I hope you have a great day!,text,Safe
+a man playing with a dog,image,Safe
+a man in a suit holding a gun,image,Toxic
+a man in a black outfit holding a bow,image,Toxic
+a man and a little girl in a car,image,Safe
+
+
+
+"Thank you for your help, I really appreciate it",text,Safe
+
+
+
