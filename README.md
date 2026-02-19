@@ -53,7 +53,6 @@ toxic_lora_model/
 Uploaded images are first converted into captions, then classified using the toxic text classifier.
 
 ---
-
 ## Project Structure
 toxic_app/
 │
@@ -67,6 +66,6 @@ toxic_app/
 ├── data.csv # Auto-generated prediction database
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
-
+---
 
 
