@@ -1,5 +1,5 @@
-# Cellula_Week_2
-# Toxic Content Classification App (Streamlit)
+
+# Multimodal Toxic Content Detection System
 
 This project was developed as part of the **Cellula Technologies Internship – Week 2**.
 
